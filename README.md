@@ -37,7 +37,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Keras OCR developers and contributors for their fantastic work on the library.
 
 ## Contact
-For any questions or issues, please contact sachiitvijay@gmail.com
+For any questions or issues, please contact sanchiitvijay@gmail.com
 
 
 
